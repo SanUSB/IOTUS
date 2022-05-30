@@ -1,6 +1,6 @@
 #!/bin/bash
 
-profile=  #add your profile name
+profile=  #add your profile name. The same of http://sanusb.org/iotus/sanusb.php
    	# install curl
 	if [ ! -f "/usr/bin/curl" ] && [ ! -f "/bin/curl" ]; then     
      apt-get upgrade
