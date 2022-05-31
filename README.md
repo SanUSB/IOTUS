@@ -18,7 +18,7 @@ Using the web page at http://sanusb.org/iotus/sanusb.php, illustrated in Figure 
 Figure 2. Proposed PaaS Profile and IOTUS Structure
 
 
-IOTUS has been programmed to upload files to the server via the page http://sanusb.org/iot/sanusb.php, following these steps:
+IOTUS has been programmed to upload files to the server via the page http://sanusb.org/iotus/sanusb.php, following these steps:
 1. Insertion of the profile used by the student and and by ELS to download the file;
 2. Look for the script in .c, .py, .sh or .hex to send for auto-update. Script examples can be downloaded from sanusb.org/iotus/examples.zip.
 3. The 'Send' button performs the transfer of the file to the server which is later renamed and automatically transferred to the ELS.
