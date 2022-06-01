@@ -38,5 +38,5 @@ The RPi computing system can be directly implemented in electronics projects, ma
 
 Figure 4. Serial connection between ADCES (SanUSB board) (a) and RPi (b)
 
-Operation details in the video at https://youtu.be/CsTcVQtUxeQ.
+Operation details in the video at https://youtu.be/7R6WihRjHNI.
 
