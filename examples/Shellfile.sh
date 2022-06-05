@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#sanusb.org/rs/sanusb.php
+#sanusb.org/iotus/sanusb.php
 #gpio mode 1 out # pino BCM 18 e Pino físico 12
 #gpio mode 1 out
 echo 18 > /sys/class/gpio/export #wPi 1
